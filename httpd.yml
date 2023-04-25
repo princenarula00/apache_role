@@ -1,0 +1,5 @@
+---
+ - name: run roles
+   hosts: webserver
+   roles:
+          - roleweb
